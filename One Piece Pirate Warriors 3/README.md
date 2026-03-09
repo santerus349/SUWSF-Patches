@@ -5,6 +5,7 @@
 - Increase render distance
 - Enable high-res shadows
 - Disable fog
+- Increase FOV (Disabled by default)
 
 ## Installation
 1. Download the [SUWSF zip](https://github.com/santerus349/SUWSF-Patches/releases/download/OPPW3/One_Piece_Pirate_Warriors_3_SUWSF.zip).
