@@ -1,6 +1,6 @@
 # DRAGON QUEST HEROES™ Slime Edition
 
-- Fix resolution above 1920x1080 
+- Replace resolution 1920x1080 with selected resolution
 
 ## Installation
 1. Download the [SUWSF zip](https://github.com/santerus349/SUWSF-Patches/releases/download/DQH/Dragon_Quest_Heroes_SUWSF.zip).

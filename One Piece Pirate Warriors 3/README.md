@@ -1,10 +1,13 @@
-# Attack on Titan / A.O.T. Wings of Freedom
+# One Piece Pirate Warriors 3
 
 - Replace resolution 1920x1080 with selected resolution
 - Fix aspect ratio for ultrawide monitors(HUD will stretch)
+- Increase render distance
+- Enable high-res shadows
+- Disable fog
 
 ## Installation
-1. Download the [SUWSF zip](https://github.com/santerus349/SUWSF-Patches/releases/download/AOT/Attack_on_Titan_SUWSF.zip).
+1. Download the [SUWSF zip](https://github.com/santerus349/SUWSF-Patches/releases/download/OPPW3/One_Piece_Pirate_Warriors_3_SUWSF.zip).
 2. Extract contents of the zip into the game folder.
 
 ### Steam Deck/Linux Additional Instructions
