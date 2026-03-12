@@ -1,6 +1,6 @@
 # DRAGON QUEST HEROES™ Slime Edition
 
-- Replace resolution 1024x768 with selected resolution(3840x2160 broke the game. Recommend set 2560x1440 or 3440x1440)
+- Replace resolution 1024x768 with selected resolution(3840x2160 broke the game. Recommend set 2560x1440/1920x1080 or 3440x1440/2560x1080)
 
 ## Installation
 1. Download the [SUWSF zip](https://github.com/santerus349/SUWSF-Patches/releases/download/SW2/Samurai_Warriors_2_SUWSF.zip).
