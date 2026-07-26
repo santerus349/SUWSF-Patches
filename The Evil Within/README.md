@@ -13,3 +13,8 @@
 
 ## Configuration
 - Edit `SUWSF.ini` in the game folder to disable/enable patches.
+
+## Credits
+[SUWSF](https://github.com/santerus349/SUWSF) by [PhantomGamers](https://github.com/PhantomGamers)
+
+[Ultimate-ASI-Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader) by [ThirteenAG](https://github.com/ThirteenAG)
